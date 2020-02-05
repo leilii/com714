@@ -7,9 +7,12 @@ public class Main {
         Tiger theTiger = new Tiger();
         theTiger.speak();
 
-        Animal anotherAnimal = new Tiger();
+        Animal anotherAnimal;
+        
+        anotherAnimal = new Tiger();
         anotherAnimal.speak();
-        Elephant theElephant = new Elephant();
-        theElephant.speak();
+
+        anotherAnimal = new Elephant();
+        anotherAnimal.speak();
     }
 }
