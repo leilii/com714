@@ -1,5 +1,6 @@
 //entity
-class Person {
+
+public class Person {
    //atributes of entity
       // premitive data types starts with lowerCase
      private String name;
@@ -45,8 +46,7 @@ public Person (String nameIn, int ageIn, double weightIn, double heightIn){
         height= height+amount;
     }
      
-
-public  static void main(String[] args) {
-    
+    public  static void main(String[] args) {
+        System.out.println("Hey This is Person class!");
 }
 }
