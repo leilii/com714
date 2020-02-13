@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - World",
+            "request": "launch",
+            "mainClass": "World"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LifeEntity",
+            "request": "launch",
+            "mainClass": "LifeEntity"
+        }
+    ]
+}
