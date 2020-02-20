@@ -1,3 +1,4 @@
+package week3;
 public class Animal extends LifeEntity {
   
     // atributes

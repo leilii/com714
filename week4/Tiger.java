@@ -1,5 +1,3 @@
-
-package week3;
 public class Tiger extends Animal {
 
     @Override

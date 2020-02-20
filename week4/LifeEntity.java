@@ -1,5 +1,7 @@
-package week3;
-public class LifeEntity {
+
+package week4;
+
+public abstract class  LifeEntity {
 
     // attributes
     private String name;
@@ -35,18 +37,8 @@ public class LifeEntity {
 
         return height;
     }
-    // public access modify
-    public void eat(int amount) {
-        energy = energy + amount;
-    }
+   
 
-    public void mate(LifeEntity partner) {
-        System.out.println(" Animals mate and Human mate..");
-    }
 
-    public void speak() {
-        System.out.println(" Animals and Human speak..");
-
-    }
 
 }

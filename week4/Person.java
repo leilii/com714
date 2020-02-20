@@ -1,5 +1,6 @@
 //entity
-package week3;
+package week4;
+
 public class Person extends LifeEntity {
     // attributes
 

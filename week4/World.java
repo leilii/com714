@@ -1,4 +1,3 @@
-package week3;
 import com.sun.xml.internal.stream.Entity;
 
 public class World {
