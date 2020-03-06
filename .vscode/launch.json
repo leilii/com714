@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Gui",
+            "request": "launch",
+            "mainClass": "week6.Gui",
+            "projectName": "com714_eccd49eb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Gui",
+            "request": "launch",
+            "mainClass": "Gui",
+            "projectName": "com714-1_eea280cf"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
             "mainClass": "Main"
