@@ -4,6 +4,18 @@
             "type": "java",
             "name": "CodeLens (Launch) - Gui",
             "request": "launch",
+            "mainClass": "week7.Gui"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Gui",
+            "request": "launch",
+            "mainClass": "week6.Gui"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Gui",
+            "request": "launch",
             "mainClass": "week6.Gui",
             "projectName": "com714_eccd49eb"
         },
